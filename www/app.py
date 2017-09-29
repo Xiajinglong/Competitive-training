@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__='Charmander'
+__author__ = 'Charmander'
 
 import logging; logging.basicConfig(level=logging.INFO)
 
